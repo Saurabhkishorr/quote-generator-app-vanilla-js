@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #BBDEFB !important;
+}
+
+
+.card-title{
+    font-family: 'Playfair Display', serif;
+    display: none;
+}
+
+.card-text{
+    font-family: 'Short Stack', cursive;
+}
+
+.text-end{
+    font-family: 'Old Standard TT', serif;
+}
+
+.border-primary{
+    width: 75px;
+    display: none;
+}
+
+#divbtns{
+    margin-top: 70px;
+}
+
+#btn2{
+    display: none;
+}
+
+.fa-twitter{
+    color: #03d3fc;
+}
+
+#btn2:hover #twitter{
+    color: #fff !important;
+}
+
+#btn2:hover{
+    color: #fff !important;
+}
+
